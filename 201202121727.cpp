@@ -1,7 +1,4 @@
-/*
- * rationalNumbers.h
- *
- *  Created on: Nov 3, 2011
+/* Created on: Nov 3, 2011
  *      Author: chocobogummy
  */
 
